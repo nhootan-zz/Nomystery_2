@@ -1,12 +1,3 @@
-/*
- *  heuristic.cc
- *  nomystery
- *
- *  Created by Hootan Nakhost on 06/10/11.
- *  Copyright 2011 __MyCompanyName__. All rights reserved.
- *
- */
-
 #include "heuristic.h"
 #include "globals.h"
 

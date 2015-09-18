@@ -2,14 +2,6 @@
 #define HEURISTIC_H
 #include "state.h"
 #include "problem.h"
-/*
- *  heuristic.h
- *  nomystery
- *
- *  Created by Hootan Nakhost on 06/10/11.
- *  Copyright 2011 __MyCompanyName__. All rights reserved.
- *
- */
 
 class Heuristic{
 	int all_delivered;
